@@ -1,9 +1,1 @@
-A text file with some words in it.
-
-Having taken off addons.
-
-another line
-
-Blerk and ballyhoo"!
-
-add stuff in termimal
+Finally got the sych with github sorted. Only 400 hours of freeCodeCamp training to go :-(
