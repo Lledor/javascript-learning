@@ -5,3 +5,5 @@ Having taken off addons.
 another line
 
 Blerk and ballyhoo"!
+
+add stuff in termimal
